@@ -1,0 +1,19 @@
+{
+  "name": "preact-web-component-method",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.5.13",
+    "preact-custom-element": "^4.2.1"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.0.0",
+    "@types/preact-custom-element": "^4.0.1",
+    "typescript": "^4.3.2",
+    "vite": "^2.4.4"
+  }
+}
